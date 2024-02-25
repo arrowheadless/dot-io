@@ -1,9 +1,13 @@
-# Your Project's Title...
-Your project's description...
+# Arrow Headless
+
+The AEM Edge site for Arrow, a headless commerce/content org
 
 ## Environments
-- Preview: https://main--{repo}--{owner}.hlx.page/
-- Live: https://main--{repo}--{owner}.hlx.live/
+
+- Homepage: https://arrowheadless.io/
+
+- Preview: https://main--dot-io--arrowheadless.hlx.page/
+- Live: https://main--dot-io--arrowheadless.hlx.live/
 
 ## Installation
 
